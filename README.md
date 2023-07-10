@@ -1,2 +1,2 @@
 # Simlink
-simlinkコード
+1台目のプログラム
